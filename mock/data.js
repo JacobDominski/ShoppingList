@@ -1,5 +1,5 @@
 export var list = [
-  /**
+  /** Format
    * {
    *  id: '',
    *  shoppingListName: '',
